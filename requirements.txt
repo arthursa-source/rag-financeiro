@@ -1,0 +1,9 @@
+langchain==1.5.2
+langchain-core==1.8.4
+langchain-google-genai==4.5.2
+langchain-postgres==0.0.19
+langchain-text-splitters==1.2.0
+psycopg[binary]==3.3.9
+pypdf
+python-dotenv
+pytest
